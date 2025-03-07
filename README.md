@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @Ciang-ks, a fresh man of Peking University.
-- I'm interested in physics and data science. Now I'm studing quantum field theory and basics of machine learning.
+- 👋 Hi, I’m @Ciang-ks, a student in Peking University, Yuanpei College.
+- I'm interested in physics and data science. Now I'm studing quantum guage theory and deep learning.
